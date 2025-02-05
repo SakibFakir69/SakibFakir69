@@ -105,7 +105,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SakibFakir69&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SakibFakir69" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SakibFakir69" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakibFakir69&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 

@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">Sakib Fakir</p>
+<h3 align="left">Hello How are you ?</h3>
 
 ###
 
-<p align="left">Front-end web developer</p>
+<p align="left">Name : Sakib Fakir  | Front-End Web Devloper</p>
 
 ###
 
@@ -101,14 +101,9 @@
 
 ###
 
-## 📊 GitHub Insights  
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakibFakir69&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SakibFakir69" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakibFakir69&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakibFakir69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SakibFakir69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-
 
 ###

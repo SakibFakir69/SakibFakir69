@@ -1,32 +1,32 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/1GQrQSCW/Web-Devloper.jpg" alt="Sakib Fakir - Web Developer" />
+  <img src="https://i.ibb.co.com/1GQrQSCW/Web-Devloper.jpg" alt="Sakib Fakir - Web Developer" style="width: 100%; max-width: 1000px;" />
 </div>
 
 ---
 
-## 👋 Hello, How are you?
+## 👋 Hey there, nice to meet you!
 
-### 🧑‍💻 About Me
+### 🧑‍💻 A Little About Me
 
-- 🚀 I'm **Sakib Fakir**, a passionate **MERN Stack Developer**.
-- 💡 I love building **modern, scalable, and user-friendly** web applications.
-- 🌱 Currently **exploring Next.js** and advancing my **Socket.io & WebRTC** knowledge.
-- 🔥 Skilled in **HTML, CSS, Tailwind, JavaScript, React, Next.js, MongoDB, Express.js**.
-- 📌 Always eager to **learn new technologies** and **solve real-world problems**.
+- 🚀 Hi, I'm **Sakib Fakir**, a passionate **MERN Stack Developer**.
+- 💡 I thrive on **building interactive, scalable, and user-friendly** web applications.
+- 🌱 Currently **diving deep into Next.js** and enhancing my **real-time app development** skills.
+- 🔥 Tech stack? **HTML, CSS, Tailwind, JavaScript, React, Next.js, MongoDB, Express.js**.
+- 📌 I enjoy **solving problems**, **learning new tech**, and **connecting with like-minded devs**.
 
 ---
 
-## 🚀 **Current Activities**
+## 🚀 **What I'm Up To Right Now**
 
 - 🔍 **Exploring** advanced **Next.js** features.
-- 🛠 **Learning** **Socket.io** and **WebRTC** for real-time applications.
-- 💻 **Building** `NextCall` - a platform for **online calls & meetings**.
+- 🛠 **Learning** **Socket.io** and **WebRTC** to build real-time applications.
+- 💻 **Developing** `NextCall` - a platform designed for **seamless online meetings & calls**.
 
 ---
 
-## 🛠 **Tech Stack & Skills**
+## 🛠 **Tech I Work With**
 
 ### 💻 **Front-End Development**
 - ⚡ **JavaScript (ES6+)**
@@ -46,14 +46,14 @@
 
 ---
 
-## 📌 **Social Links**
+## 📌 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-fakir-183923295/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/sakib.fakir.169832)
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Insights**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakibFakir69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
@@ -62,4 +62,4 @@
 
 ---
 
-💡 *"Coding is not just about syntax, it's about solving problems creatively."* 🚀
+💡 *"Code is more than just syntax, it's about creativity and problem-solving."* 🚀

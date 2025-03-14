@@ -1,111 +1,65 @@
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/1GQrQSCW/Web-Devloper.jpg"  />
+  <img height="200" src="https://i.ibb.co.com/1GQrQSCW/Web-Devloper.jpg" alt="Sakib Fakir - Web Developer" />
 </div>
 
-###
+---
 
-<h3 align="left">Hello How are you ?</h3>
+## 👋 Hello, How are you?
 
-###
+### 🧑‍💻 About Me
 
-<p align="left">Name : Sakib Fakir  | Front-End Web Devloper</p>
+- 🚀 I'm **Sakib Fakir**, a passionate **MERN Stack Developer**.
+- 💡 I love building **modern, scalable, and user-friendly** web applications.
+- 🌱 Currently **exploring Next.js** and advancing my **Socket.io & WebRTC** knowledge.
+- 🔥 Skilled in **HTML, CSS, Tailwind, JavaScript, React, Next.js, MongoDB, Express.js**.
+- 📌 Always eager to **learn new technologies** and **solve real-world problems**.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 **Current Activities**
 
-###
+- 🔍 **Exploring** advanced **Next.js** features.
+- 🛠 **Learning** **Socket.io** and **WebRTC** for real-time applications.
+- 💻 **Building** `NextCall` - a platform for **online calls & meetings**.
 
-<p align="left">👋 Hey there! I'm Sakib Fakir | <br><br>I'm a MERN Stack Developer with a passion for creating modern web applications. My expertise includes HTML, CSS, Tailwind, JavaScript, React, Next.js, MongoDB, and Express.js. I love building scalable, user-friendly solutions and constantly learning new technologies to improve my skills.</p>
+---
 
-###
+## 🛠 **Tech Stack & Skills**
 
-<h4 align="left">Current Activities:</h4>
+### 💻 **Front-End Development**
+- ⚡ **JavaScript (ES6+)**
+- ⚛ **React.js & Next.js**
+- 🎨 **Tailwind CSS, CSS3, HTML5**
 
-###
+### 🚀 **Back-End Development**
+- 🛠 **Express.js & Node.js**
+- 🍃 **MongoDB (NoSQL Database)**
+- 🔄 **REST API & Authentication (JWT)**
 
-<p align="left">1.  I am exploring Next.js/I’m working on a ConnectToYou website</p>
+### 🛠 **Tools & Technologies**
+- 🧑‍💻 **Git & GitHub**
+- 🗂 **VS Code**
+- ☁️ **Firebase & Cloud Deployment**
+- 🖥 **WebSockets (Socket.io, WebRTC)**
 
-###
+---
 
-<h3 align="left">Skills :</h3>
+## 📌 **Social Links**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-fakir-183923295/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/sakib.fakir.169832)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+---
 
-###
-
-<h3 align="left">Fron-end</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">Social Links</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sakib-fakir-183923295/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://web.facebook.com/sakib.fakir.169832" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+## 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakibFakir69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SakibFakir69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-###
+---
+
+💡 *"Coding is not just about syntax, it's about solving problems creatively."* 🚀

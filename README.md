@@ -4,7 +4,7 @@
   <img height="300" width="100%" src="https://i.ibb.co.com/1GQrQSCW/Web-Devloper.jpg" alt="Sakib Fakir - Web Developer" />
 </div>
 
----
+--
 
 ## 👋 Hey there, nice to meet you!
 

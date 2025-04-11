@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="100%" src="https://i.ibb.co.com/1GQrQSCW/Web-Devloper.jpg" alt="Sakib Fakir - Web Developer" />
+  <img height="300" width="100%" src="https://ibb.co.com/2110Wbss" />
 </div>
 
 --

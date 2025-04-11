@@ -41,8 +41,8 @@
 ### 🛠 **Tools & Technologies**
 - 🧑‍💻 **Git & GitHub**
 - 🗂 **VS Code**
-- ☁️ **Firebase & Cloud Deployment**
-- 🖥 **WebSockets (Socket.io, WebRTC)**
+- ☁️ **Firebase **
+- 🖥 **WebSockets (Socket.io)**
 
 ---
 

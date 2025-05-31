@@ -13,7 +13,7 @@
 - 🚀 Hi, I'm **Sakib Fakir**, a passionate **MERN Stack Developer**.
 - 💡 I thrive on **building interactive, scalable, and user-friendly** web applications.
 - 🌱 Currently **diving deep into Next.js** and enhancing my **real-time app development** skills.
-- 🔥 Tech stack? **HTML, CSS, Tailwind, JavaScript, React, Next.js, MongoDB, Express.js**.
+- 🔥 Tech stack? **HTML, CSS, Tailwind, JavaScript, TypeScript, React, Next.js, MongoDB, Express.js**.
 - 📌 I enjoy **solving problems**, **learning new tech**, and **connecting with like-minded devs**.
 
 ---
@@ -21,15 +21,14 @@
 ## 🚀 **What I'm Up To Right Now**
 
 - 🔍 **Exploring** advanced **Next.js** features.
-- 🛠 **Learning** **Socket.io** and **WebRTC** to build real-time applications.
-- 💻 **Developing** `NextCall` - a platform designed for **seamless online meetings & calls**.
+- 🛠 **Learning Next.js and Mongooess , system design  **
 
 ---
 
 ## 🛠 **Tech I Work With**
 
 ### 💻 **Front-End Development**
-- ⚡ **JavaScript (ES6+)**
+- ⚡ **JavaScript (ES6+) , TypeScript**
 - ⚛ **React.js & Next.js**
 - 🎨 **Tailwind CSS, CSS3, HTML5**
 
